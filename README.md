@@ -383,7 +383,6 @@ Berisi seluruh form GUI. Setiap form terdiri dari sepasang file: .java (kode) da
 - view.admin: form untuk admin, yaitu pelanggan, kendaraan, pegawai, servs, spart, stok, taridf, dan transaksi.
 - view.sales: form untuk sales, yaitu main, pelanggan, kendaraan, servis, sparepart, stok, dan tarif.
 - view.mekanik: form untuk mekanik, yaitu servs, spart, tarif, dan transaksi.
-- view.pelanggan: form untuk pelanggan, yaitu profil dan riwayatransaksi.
 
 ============================================================================
 
