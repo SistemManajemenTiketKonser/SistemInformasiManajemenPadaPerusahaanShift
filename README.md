@@ -464,6 +464,7 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 
 **Login**
 
+<img width="788" height="436" alt="image" src="https://github.com/user-attachments/assets/781f380b-0e99-4e3b-82b7-f2a0d589874a" />
 
 **Halaman Admin**
 
@@ -546,15 +547,6 @@ Logout dengan menekan tombol LOGOUT untuk kembali ke halaman login.
 ***Transaksi***
 
 <img width="643" height="356" alt="WhatsApp Image 2026-11-07 at 22 05 00" src="https://github.com/user-attachments/assets/8d2b08d4-0a3a-4443-a49b-e8c9f6b5ac6f" />
-
-**Halaman Pelanggan**
-
-
-***Profil Saya***
-
-
-***Riwayat Transaksi***
-
 
 ============================================================================
 
