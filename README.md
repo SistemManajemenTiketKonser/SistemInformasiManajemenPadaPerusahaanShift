@@ -325,9 +325,8 @@ Setiap Sales dapat menangani satu atau banyak Transaksi.
 
 ## Struktur Folder/Package
 
-<img width="517" height="887" alt="image" src="https://github.com/user-attachments/assets/7b89746c-9b5a-4b7a-a95d-9c28f2122e82" />
+<img width="451" height="362" alt="image" src="https://github.com/user-attachments/assets/93859b44-edae-40dc-93ea-888451b9d0ce" />
 
-<img width="512" height="802" alt="image" src="https://github.com/user-attachments/assets/c69c4b42-8af2-4324-ab5e-d3dda1f3e87a" />
 
 ***com.bengkelshift.main***
 
